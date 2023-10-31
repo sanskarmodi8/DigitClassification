@@ -1,7 +1,7 @@
 # Digit Classification Web App
 
 This web application allows users to draw a digit and use a pre-trained machine learning model to predict the drawn digit.
-Live Demo -> https://sanskarmodi8.github.io/DigitClassification
+Live Demo -> https://sanskarmodi8.github.io/DigitClassification (only frontend will work as server has not been deployed yet)
 
 ![Digit Classifier](ss.png)
 
